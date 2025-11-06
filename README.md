@@ -1,6 +1,6 @@
 # Notehub Email Sender
 
-Automated tool for sending the latest note from NoteHub via email.
+Automated tool for sending the latest note from [NoteHub](https://github.com/AimonKied/notehub) via email.
 
 ## Features
 
